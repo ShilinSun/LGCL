@@ -1,2 +1,2 @@
 # LGCL
-Line Graph Embedding Contrastive Learning Method
+Line Graph Contrastive Learning Method
